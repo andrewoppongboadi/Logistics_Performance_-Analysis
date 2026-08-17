@@ -159,7 +159,7 @@ The narrow state range suggests a common process problem, potentially involving 
 
 ### Dashboard 1 — Logistics Business Performance Overview
 
-![Logistics Business Performance Overview](images/business-performance-overview.png)
+![Business Performance Dashboard](Business%20Performance%20DashBoard.png)
 
 **Purpose:** Evaluate annual gross revenue, known operating costs, and estimated margin.
 
@@ -169,7 +169,7 @@ The narrow state range suggests a common process problem, potentially involving 
 
 ### Dashboard 2 — Customer Revenue & Freight Mix Overview
 
-![Customer Revenue and Freight Mix Overview](images/customer-revenue-freight-mix.png)
+![Customer Revenue Dashboard](Customer%20Revenue%20DashBoard.png)
 
 **Purpose:** Explain who generates revenue and which freight categories support each customer segment.
 
@@ -179,7 +179,7 @@ The narrow state range suggests a common process problem, potentially involving 
 
 ### Dashboard 3 — Lane & Route Performance
 
-![Lane and Route Performance](images/lane-route-performance.png)
+![Lane Performance Dashboard](tableau_lane_performance.png)
 
 **Purpose:** Compare revenue scale with rate efficiency and explain why the leaders differ.
 
@@ -191,7 +191,7 @@ The narrow state range suggests a common process problem, potentially involving 
 
 ### Dashboard 4 — Delivery Reliability Overview
 
-![Delivery Reliability Overview](images/delivery-reliability-overview.png)
+![Delivery Reliability Dashboard](Tableau%20Map.png)
 
 **Purpose:** Measure network reliability and determine whether poor service is geographically concentrated.
 
