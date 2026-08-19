@@ -5,7 +5,7 @@
 **Tools:** MySQL · SQL · Tableau Public  
 **Analysis period:** 2022–2024  
 **Dataset:** Kaggle-derived logistics data  
-**Status:** Complete; Tableau Public link to be added after publication
+**Status:** Complete; https://public.tableau.com/app/profile/andrew.boadi/vizzes
 
 ## Table of Contents
 
